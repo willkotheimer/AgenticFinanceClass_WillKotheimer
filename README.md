@@ -1,6 +1,8 @@
 # AgenticFinanceClass — Will Kotheimer
 
-Capstone for the Packt course **Agent Engineering for Finance**.
+Capstone for **Agentic AI for Finance**, a Packt certificate course (four days; instructor
+Nicole Königstein). The repo holds the decision trail as well as the code: what was chosen,
+what was rejected, and why.
 
 **Filings Research Desk** — given a ticker and a question, a governed multi-agent system reads
 the company's SEC filings and XBRL facts from EDGAR and returns a research memo in which every
