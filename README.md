@@ -8,7 +8,7 @@ what was rejected, and why.
 the company's SEC filings and XBRL facts from EDGAR and returns a research memo in which every
 figure is traceable to a source.
 
+- [`proposal.md`](proposal.md) — Part 1: the workflow mapped into agentic components.
 - `planning/` — working notes: decisions log, ideas, plans, test strategy, governance.
-- Part 1 proposal: `planning/final_idea.md` (in progress).
 
 Educational project. Nothing here is financial advice.
